@@ -6,7 +6,7 @@
     <name> -- <role> -- <twitter>
 
 # THANKS
-
+Saying thanks for everything
     <name>
 
 # TECHNOLOGY COLOPHON
